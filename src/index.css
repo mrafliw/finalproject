@@ -1,0 +1,13 @@
+body {
+  background-color: #2b2b2b;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: rgb(0, 0, 0);
+  border: 1px solid #000000;
+  border-radius: 10px;
+  width: 50%;
+  margin: 0 auto;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(37, 37, 37);
+}
+
+.container{
+    width: 40%;
+}
+
+.login{
+    background-color: rgb(15, 15, 15);
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 50px;
+    width: 90%;
+}
+
+.login .titleHomePage h1{
+    margin-left: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.login .imageHomePage{
+    width: 30%;
+    margin-right: 50px;
+}
+
+.login .btn-login{
+    margin-left: 50px;
+}
+
+.content p {
+    color: white;
+    margin-left: 20px;
+}
+
+.tracks p{
+    color: black;
+    margin-left: 0;
+}
